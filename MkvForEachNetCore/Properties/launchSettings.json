@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MkvForEachNetCore": {
+      "commandName": "Project",
+      "commandLineArgs": "-dir D:\\Temp\\TestVideos "
+    }
+  }
+}
